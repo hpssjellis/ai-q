@@ -25,6 +25,30 @@ Types of Screen Addicted students and IMHO (In my humble opinion) how to teach t
 
 ## What to do?
 
+This part will change as teachers and schools try different methods.
+I will try to teach my students to use their screen time for learning and to understand that leisure time
+is for when you have finished learning / work and want some casual low brain activity to relax, while realizing 
+that their are other ways to relax as well as screen time. (Wish me luck)
+
+I also have cell phone holders I made in 2017 but basically gave up on during covid.
+
+
+<img width="316" alt="image" src="https://github.com/hpssjellis/aiq/assets/5605614/525855e3-c48c-41d3-b20c-fa278d832c15">
+
+
+.
+
+
+.
+
+
+
+.
+
+
+
+
+.
 
 
 
