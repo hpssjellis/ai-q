@@ -6,6 +6,8 @@
 
 
 
+## Researchers and web images that come up during a search of the topic
+
 Benjamin Bloom:
 
 Method: Bloom's Taxonomy
@@ -180,6 +182,90 @@ Contribution: Mead's cross-cultural studies of adolescence highlighted the influ
 
 https://www.loc.gov/exhibits/mead/field-samoa
 
+
+
+Jean Twenge:
+
+Method: Developmental Psychology and Sociocultural Analysis
+Contribution: Twenge’s research focuses on the impact of technology and social media on adolescents. Her book "iGen" explores how smartphones and digital media have shaped a generation, offering insights on the psychological effects of screen time and practical strategies for educators to mitigate its negative impacts.
+
+![image](https://github.com/hpssjellis/aiq/assets/5605614/f91df0fe-ce61-4fb8-8635-ebcb4f1ee2f1)
+
+
+Richard Freed:
+
+Method: Child and Adolescent Psychology
+Contribution: Freed’s book "Wired Child" provides a comprehensive look at how digital devices affect children and teenagers. He offers practical advice for parents and educators on how to reduce screen time and promote healthier habits, emphasizing the importance of face-to-face interactions and balanced technology use.
+
+![image](https://github.com/hpssjellis/aiq/assets/5605614/f93220cd-99f1-4fc1-bb06-bb8bda620979)
+
+
+Larry Rosen:
+
+Method: Psychology of Technology
+Contribution: Rosen’s work investigates the psychological effects of technology on adolescents. His research includes strategies for managing screen time, reducing digital distractions, and fostering better attention and mental health. His book "The Distracted Mind" offers valuable insights for educators dealing with screen-time addiction.
+
+![image](https://github.com/hpssjellis/aiq/assets/5605614/4892fb71-da16-475b-9fd6-e58d86cf7f4f)
+
+
+Catherine Steiner-Adair:
+
+Method: Clinical Psychology and Education
+Contribution: Steiner-Adair’s book "The Big Disconnect" discusses the impact of technology on family relationships and adolescent development. She provides strategies for educators to help students balance screen time with other activities, focusing on building social-emotional skills and real-world interactions.
+
+https://www.bookey.app/book/the-big-disconnect
+
+
+Mitch Prinstein:
+
+Method: Clinical Child and Adolescent Psychology
+Contribution: Prinstein’s research explores peer influence and social media’s impact on adolescent mental health. His book "Popular: The Power of Likability in a Status-Obsessed World" offers insights into the social dynamics of teenagers and how educators can foster positive peer interactions and reduce screen time reliance.
+
+![image](https://github.com/hpssjellis/aiq/assets/5605614/8cf61395-2bee-4709-9030-3992e91256ce)
+
+
+
+Susan Greenfield:
+
+Method: Neuroscience
+Contribution: Greenfield’s work examines the neurological effects of digital technology on the brain. Her book "Mind Change" explores how screen time alters cognitive functions and provides recommendations for educators to promote healthier tech habits and cognitive development.
+
+http://repo.darmajaya.ac.id/5389/1/Mind%20Change_%20How%20Digital%20Technologies%20Are%20Leaving%20Their%20Mark%20on%20Our%20Brains%20%28%20PDFDrive%20%29.pdf
+
+
+
+
+
+Danah Boyd:
+
+Method: Social Media Research and Anthropology
+Contribution: Boyd’s book "It's Complicated: The Social Lives of Networked Teens" examines how teenagers interact with social media and technology. She identifies new types of social behaviors and identities emerging from digital interactions, such as the socially connected and the isolated, providing a contemporary view of teenage subcultures.
+
+![image](https://github.com/hpssjellis/aiq/assets/5605614/2b41a79a-1b51-4409-8880-acae6dd45222)
+
+
+Sherry Turkle:
+
+Method: Clinical Psychology and Anthropology
+Contribution: Turkle’s work, particularly in "Alone Together: Why We Expect More from Technology and Less from Each Other," explores how digital technology affects social relationships and personal identities. She discusses how teenagers navigate their online and offline lives, focusing on the socially connected, isolated, and screen-time addicted.
+
+
+
+
+David Buckingham:
+
+Method: Media and Communication Studies
+Contribution: Buckingham’s research on media literacy and youth culture provides a comprehensive look at how media shapes the identities and behaviors of teenagers. His work helps educators understand the diverse ways teenagers engage with media and technology, identifying trends and shifts in teenage subcultures.
+
+
+
+
+Amy Goldwasser:
+
+Method: Media Studies and Cultural Analysis
+Contribution: Goldwasser edited the anthology "Red: The Next Generation of American Writers—Teenage Girls—On What Fires Up Their Lives Today," which gives voice to contemporary teenagers and their experiences. This collection provides insights into the new types of teenage identities and social groups emerging in the digital age.
+
+![image](https://github.com/hpssjellis/aiq/assets/5605614/059d8449-0cd0-47b6-86c0-26aec2a6c8f2)
 
 
 
