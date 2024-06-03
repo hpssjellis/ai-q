@@ -9,16 +9,16 @@
 
 Types of Screen Addicted students and IMHO (In my humble opinion) how to teach them.
 
-1. __Producers:__ University or trade bound students that can do and solve almost anything. The are stable, can play instruments, write, learn, they read, play sports and help others, socially fine and they thrive with or without AI. May have had issues but have overcome all hurdles.
+1. __Producers:__ University or trade bound students that can do and solve almost anything. They are stable, can play instruments, write, learn, they read, play sports and help others, socially fine and they thrive with or without AI. May have had issues but have overcome all hurdles. 
 
   
 2. __ScreenTime Addicted and Hi IQ:__ These students are fully screen time addicted and will use their high intelligence to stay addicted. They randomly and occasionally produce high level assingments but only when it is of interest to them. Think 80's Stoner, SOME of them will do fine. Do not expect much change during the school year at a high time and emotional cost to the teacher.
 
 3. __Emergent and Addicted:__ Not very capable at learning and fully addicted to screen time, do not expect much change during the year at a high time and emotional cost to the teacher
 
-4. __Developing and Addicted:__ These are normal High School students, probably have some learning issues, prefer some subjects over others, probably have some social issues, wanting to find their place, use social media and/or gaming a lot. These students can improve and learn at high school with guidance, school cell phone use rules and teacher effort
+4. __Developing and Addicted:__ These are normal High School students, probably have some learning issues, possibly a disablility or two, prefer some subjects over others, probably have some social issues, wanting to find their place, use social media and/or gaming a lot. These students can improve and learn at high school with guidance, school cell phone rules, sensible use of AI to increase learning and teacher effort
    
-5. __Developing not-addicted:__ Their aren't any! These students are your traditional C+/B students. You might have a few in your class, if so they probably have aware parents that try to keep a traditional home with family time and lots of activities. Hopefully your class has a few of them.
+5. __Developing not-addicted:__ There aren't many! These students are your traditional C+/B students. You might have a few in your class, if so they probably have aware parents that try to keep a traditional home with family time and lots of activities. Hopefully your class has a few of them.
 
 
 
@@ -26,7 +26,8 @@ Types of Screen Addicted students and IMHO (In my humble opinion) how to teach t
 ## What to do?
 
 This part will change as teachers and schools try different methods.
-I will try to teach my students to use their screen time for learning and to understand that leisure time
+
+I will try to teach my students to use their screen time and AI for learning and to understand that leisure time
 is for when you have finished learning / work and want some casual low brain activity to relax, while realizing 
 that their are other ways to relax as well as screen time. (Wish me luck)
 
