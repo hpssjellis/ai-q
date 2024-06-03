@@ -5,6 +5,39 @@
 ### My attempt to understand teaching teenagers in the age of screen time addiction and Artificial Intelligence
 
 
+### Ellis AIQ  
+
+Types of Screen Addicted students and IMHO (In my humble opinion) how to teach them.
+
+1. Producers: University or trade bound students that can do and solve almost anything. The are stable, can play instruments, write, learn, they read, play sports and help others, socially fine and they thrive with or without AI. May have had issues but have overcome all hurdles.
+
+  
+2. ScreenTime Addicted and Hi IQ: These students are fully screen time addicted and will use their high intelligence to stay addicted. They randomly and occasionally produce high level assingments but only when it is of interest to them. Think 80's Stoner, SOME of them will do fine. Do not expect much change during the school year at a high time and emotional cost to the teacher.
+
+3. Emergent and Addicted: Not very capable at learning and fully addicted to screen time, do not expect much change during the year at a high time and emotional cost to the teacher
+
+4. Developing and Addicted: These are normal High School students, probably have some learning issues, prefer some subjects over others, probably have some social issues, wanting to find their place, use social media and/or gaming a lot.
+   
+5. Developing not-addicted: Their aren't any! These students are your traditional C+/B students. You might have a few in your class, if so they probably have aware parents that try to keep a traditional home with family time and lots of activities. Hopefully your class has a few of them.
+
+
+
+
+## What to do?
+
+
+
+
+
+
+ 
+
+   
+
+
+
+
+
 
 ## Researchers and web images that come up during a search of the topic
 
