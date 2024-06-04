@@ -12,9 +12,9 @@ Types of Screen Addicted students and IMHO (In my humble opinion) how to teach t
 1. __Producers:__ University or trade bound students that can do and solve almost anything. They are stable, can play instruments, write, learn, they read, play sports and help others, socially fine and they thrive with or without AI. May have had issues but have overcome all hurdles. 
 
   
-2. __ScreenTime Addicted and Hi IQ:__ These students are fully screen time addicted and will use their high intelligence to stay addicted. They randomly and occasionally produce high level assingments but only when it is of interest to them. Think 80's Stoner, SOME of them will do fine. Do not expect much change during the school year at a high time and emotional cost to the teacher.
+2. __ScreenTime Addicted and Hi IQ:__ These students are fully screen time or other types of addicted and will use their high intelligence to stay addicted. They randomly and occasionally produce high level assingments but only when it is of interest to them. Some of these students will do fine. Do not expect much change during the school year at a high time and emotional cost to the teacher.
 
-3. __Emergent and Addicted:__ Not very capable at learning and fully addicted to screen time, do not expect much change during the year at a high time and emotional cost to the teacher
+3. __Emergent and Addicted:__ Students who face significant learning challenges and are fully engaged with screen time. These students may have multiple disabilities and or faced significant trauma and have often been allowed screen time as a primary reward throughout their lives.
 
 4. __Developing and Addicted:__ These are normal High School students, probably have some learning issues, possibly a disablility or two, prefer some subjects over others, probably have some social issues, wanting to find their place, use social media and/or gaming a lot. These students can improve and learn at high school with guidance, school cell phone rules, sensible use of AI to increase learning and teacher effort
    
