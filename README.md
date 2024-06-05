@@ -14,7 +14,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
   
 2. __Screenager:(5-20%)__ These students are fully screen time addicted and or have other teenager traditional addictions and will use their high intelligence to stay addicted. They randomly and occasionally produce high level assingments but only when it is of interest to them. They may have real learning and or emotional issues, but will use all kinds of excuses for why things can not get completed instead of using personal will power or AI to help them learn. Some of these students will do fine when they finish High School. Do not expect much change from them during the school year. Challenging these students at their interest area can take a lot of effort both physical and emotional from the teacher. The true issue here is addiction and all the facets of addiction and not learning ability.
 
-3. __Emergent and Addicted:(5-20%)__ Students who face significant learning challenges and are fully engaged with screen time. These students may have multiple disabilities and or faced significant trauma and may have often been allowed screen time as a primary reward throughout their lives. Hopefully these students have signifcant long term support from both the government and the school system for long term care. These students can gain the most advantage from both social and AI supported learning and careful reduction of the Pavolovian reward of screentime for small gains. 
+3. __Emergent and Addicted:(5-20%)__ Students who face significant learning challenges and are fully engaged with screen time. These students may have multiple disabilities and or faced significant trauma and may have often been allowed screen time as a primary reward throughout their lives. Hopefully these students have signifcant long term support from both the government and the school system for long term care. These students can gain the most advantage from both social and AI supported learning and careful reduction of the Pavolovian reward of screentime for small gains. It sometimes helps to sperate social goals from academic goals for these students, perhaps taking turns between the two. Reward screentime is not acceptable in the regular class so this issue will need to be sorted out.
 
 4. __Developing and Addicted:(35-85%)__ These are normal High School students, probably have some learning issues, possibly a disablility or two, have suffered some loss or trauma, prefer some subjects over others, probably have some social issues, wanting to find their place, use social media and/or gaming a lot. These students can improve and learn at high school with guidance, school cell phone rules, sensible use of AI to increase learning and concentrated effort from the teaching staff.
    
@@ -42,6 +42,13 @@ I also have cell phone holders I made in 2017 but basically gave up on during co
 
 .
 
+## How to Teach:
+
+See the above student types:
+
+Encourage Producers to learn everything they can, every minute in the class room needs to be spent learning. Identify and survive the Screenagers attempts to divert learning. School addiction programs might help with this. Emergent and Addicted need support and sperate social goals from academic ones. Use AI and technology as much as possible to automate the learning and seperate social learning as specific tasks as needed. Spend most of your time on the upto 85% of students who are Developing and Addicted. The Developing and Addicted have the potential for the most growth in all areas once school and after school screen time is reduced.
+
+## Good luck, It is a journet, at least I can retire if it does not go well.
 
 
 .
