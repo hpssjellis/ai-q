@@ -2,23 +2,23 @@
 
 ### Artificial Intelligence Quotient
 
-### My attempt to understand teaching teenagers in the age of screen time addiction and Artificial Intelligence
+### My attempt to understand teaching teenagers in the age of Screen Time Addiction and Artificial Intelligence
 
 
 ### Ellis AIQ  
 
-Types of Screen Addicted students and IMHO (In my humble opinion) how to teach them.
+Types of Screen Addicted students and IMHO (in my humble opinion) how to teach them.
 
-1. __Producers:__ University or trade bound students that can do and solve almost anything. They are stable, can play instruments, write, learn, they read, play sports and help others, socially fine and they thrive with or without AI. May have had issues but have overcome all hurdles. 
+1. __Producers:(5-20%)__ University or trade bound students that can do and solve almost anything. They are stable, can play instruments, write, learn, they read, they play sports and help others, socially fine and they thrive with or without AI. They may have had issues but have overcome all hurdles. They typically use AI to simplify and increase their own learning. Traditionally these students were very rare, but increased technology has allowed significant growth in the number of truly capable students.  These students teacher's need to challenge at their level to be better in all areas. Challenging these students does not and should not take much effort from the teacher.  
 
   
-2. __ScreenTime Addicted and Hi IQ:__ These students are fully screen time or other types of addicted and will use their high intelligence to stay addicted. They randomly and occasionally produce high level assingments but only when it is of interest to them. Some of these students will do fine. Do not expect much change during the school year at a high time and emotional cost to the teacher.
+2. __Screenager:(5-20%)__ These students are fully screen time addicted and or have other teenager traditional addictions and will use their high intelligence to stay addicted. They randomly and occasionally produce high level assingments but only when it is of interest to them. They may have real learning and or emotional issues, but will use all kinds of excuses for why things can not get completed instead of using personal will power or AI to help them learn. Some of these students will do fine when they finish High School. Do not expect much change from them during the school year. Challenging these students at their interest area can take a lot of effort both physical and emotional from the teacher. The true issue here is addiction and all the facets of addiction and not learning ability.
 
-3. __Emergent and Addicted:__ Students who face significant learning challenges and are fully engaged with screen time. These students may have multiple disabilities and or faced significant trauma and have often been allowed screen time as a primary reward throughout their lives.
+3. __Emergent and Addicted:(5-20%)__ Students who face significant learning challenges and are fully engaged with screen time. These students may have multiple disabilities and or faced significant trauma and may have often been allowed screen time as a primary reward throughout their lives. Hopefully these students have signifcant long term support from both the government and the school system for long term care. These students can gain the most advantage from both social and AI supported learning and careful reduction of the Pavolovian reward of screentime for small gains. 
 
-4. __Developing and Addicted:__ These are normal High School students, probably have some learning issues, possibly a disablility or two, prefer some subjects over others, probably have some social issues, wanting to find their place, use social media and/or gaming a lot. These students can improve and learn at high school with guidance, school cell phone rules, sensible use of AI to increase learning and teacher effort
+4. __Developing and Addicted:(35-85%)__ These are normal High School students, probably have some learning issues, possibly a disablility or two, have suffered some loss or trauma, prefer some subjects over others, probably have some social issues, wanting to find their place, use social media and/or gaming a lot. These students can improve and learn at high school with guidance, school cell phone rules, sensible use of AI to increase learning and concentrated effort from the teaching staff.
    
-5. __Developing not-addicted:__ There aren't many! These students are your traditional C+/B students. You might have a few in your class, if so they probably have aware parents that try to keep a traditional home with family time and lots of activities. Hopefully your class has a few of them.
+5. __Developing not-addicted:(0-5%)__ There aren't many! These students are your traditional C+/B students. You might have a few in your class, if so they probably have aware parents that try to keep a traditional home with family time and lots of activities. Hopefully your class has a few of them. No addtional effort other than traditional teaching is needed with these students.
 
 
 
