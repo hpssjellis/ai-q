@@ -4,6 +4,7 @@
 
 ### My attempt to understand teaching teenagers in the age of Screen Time Addiction and Artificial Intelligence
 
+At the end of the 2023-2024 school year, things are fairly bleak about educatimg the general population of high school students from my perspective. Next year my school is starting a scchool wide awareness of the problems with screen time and the negative effects multiple screens are having on our students mental health, the classroom environment and basic student respect for learning.
 
 ### Ellis AIQ  
 
