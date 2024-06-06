@@ -24,6 +24,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
 6. __Other:(0-5%)__ There aren't many! These students are atypical, and need to be dealt with on an individual bases.
 
 
+<img width="850" alt="image" src="https://github.com/hpssjellis/aiq/assets/5605614/d88ead2c-740c-4aa8-aec9-80070b3b63a4">
 
 
 
