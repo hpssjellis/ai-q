@@ -18,6 +18,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
 1. **Producers (5-20%)**  
    University or trade-bound students who excel in various areas. They can play instruments, write, learn, read, play sports, help others, and thrive with or without AI. They may have overcome significant hurdles and use AI to enhance their learning. Increased technology has allowed significant growth in the number of truly capable students. These students need to be continuously challenged at their level to further their development.
 
+
    **Educational Goals:**  
    - Foster pride in their abilities.
    - Encourage lifelong learning.
@@ -28,8 +29,9 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Encourage participation in extracurricular activities and competitions.
    - Promote mentorship opportunities with industry professionals.
 
-2. **Screenagers (5-20%)**  
+3. **Screenagers (5-20%)**  
    Highly intelligent students who are fully screen-time addicted and may have other addictions. They often exploit loopholes to maintain their screen time and may even teach others to do the same. While they occasionally produce excellent work, it is usually in areas of personal interest. They face various challenges, including learning and social issues, but their primary issue is screen-time addiction.
+   
 
    **Educational Goals:**  
    - Develop self-sufficiency in motivation and learning.
@@ -40,7 +42,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Engage them in interest-based projects to channel their intelligence positively.
    - Provide support for underlying issues, such as counseling for addictions.
 
-3. **Emergent and Addicted (5-20%)**  
+5. **Emergent and Addicted (5-20%)**  
    Students with significant learning challenges who are deeply engaged with screen time. They may have multiple disabilities or have faced significant trauma, often using screen time as a primary reward. These students benefit greatly from both social and AI-supported learning.
 
    **Educational Goals:**  
@@ -52,9 +54,10 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Avoid using screen time as a reward in the classroom.
    - Provide long-term support and involve multidisciplinary teams for comprehensive care.
 
-4. **Developing and Addicted (30-85%)**  
-   Typical high school students with some learning issues, possible disabilities, or past trauma. They use social media and gaming extensively but can improve with proper guidance. This group includes various social stereotypes from the 80s like Nerds, Jocks, Goths, and Punk rockers.
+7. **Developing and Addicted (30-85%)**  
+   Typical high school students with some learning issues, possible disabilities, or past trauma. They use social media and gaming extensively but can improve with proper guidance. 
 
+     
    **Educational Goals:**  
    - Manage screen time effectively.
    - Encourage pride in hard-earned academic achievements.
@@ -65,7 +68,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Use AI tools to enhance learning while maintaining screen time limits.
    - Offer support for social and emotional development.
 
-5. **Developing, Not Addicted (0-5%)**  
+9. **Developing, Not Addicted (0-5%)**  
    Traditional C+/B students who are not heavily influenced by screen time. They likely have supportive parents and engage in various activities outside of school.
 
    **Educational Goals:**  
@@ -76,7 +79,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Continue traditional teaching methods.
    - Encourage participation in diverse activities to broaden their interests.
 
-6. **Other (0-5%)**  
+10. **Other (0-5%)**  
    Atypical students who require individualized teaching approaches.
 
    **Educational Goals:**  
@@ -86,7 +89,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Conduct one-on-one meetings to understand their needs and aspirations.
    - Tailor the curriculum to meet their unique requirements.
 
-These suggestions aim to make the document more comprehensive, structured, and actionable for educators.
+
 
 
 
