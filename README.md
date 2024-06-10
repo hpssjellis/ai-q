@@ -25,7 +25,8 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Inspire them to contribute positively to society and the planet.
 
    **Teaching Strategies:**
-   - Provide advanced and enriched curriculum options.
+   - The key here is touching base every few days, these students do not need intensive help
+   - Provide advanced and enriched curriculum options, also without much prep from your part
    - Encourage participation in extracurricular activities and competitions.
    - Promote mentorship opportunities with industry professionals.
 
@@ -38,8 +39,11 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Address and manage their addictions.
 
    **Teaching Strategies:**
-   - Set clear and consistent boundaries regarding screen time.
-   - Engage them in interest-based projects to channel their intelligence positively.
+   - The key here is that these students have no desire to stop there addiction and may perceive learning as a problem. Expect to
+     crush or be crushed.
+   - Set clear and consistent boundaries regarding all classroom activities.
+   - Use administration for help when they out-smart you and break a rule or find a loophole. The tone of learning must be maintained.
+   - Engage them in interest-based projects to channel their intelligence positively, but not at a massive time on waste on your part
    - Provide support for underlying issues, such as counseling for addictions.
 
 5. **Emergent and Addicted (5-20%)**  
@@ -51,7 +55,10 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
 
    **Teaching Strategies:**
    - Implement a balanced approach to learning, alternating between social and academic goals.
-   - Avoid using screen time as a reward in the classroom.
+   - Have similar methods per class, but optimize learning
+   - Use pre-made programs or AI assisted to personal needs
+   - Include a social part each class which can be healthy for all students.
+   - Avoid using screen time as a reward in the classroom, if EA present (Educational Assistant) then students might leave for rewards
    - Provide long-term support and involve multidisciplinary teams for comprehensive care.
 
 7. **Developing and Addicted (30-85%)**  
@@ -59,7 +66,8 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
 
      
    **Educational Goals:**  
-   - Manage screen time effectively.
+   - Manage screen time for learning effectively, with clear boundaries
+   - If students are allowed to use ScreenTime make sure it is only for related learning activities
    - Encourage pride in hard-earned academic achievements.
    - Help them find a balance between their interests and abilities.
 
