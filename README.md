@@ -1,10 +1,10 @@
 # AIQ
 
-### Artificial Intelligence Quotient, in the age of Teenager Screentime
+### Artificial Intelligence Quotient, in the age of Teenage Screentime
 
 ### My attempt to understand teaching teenagers in the age of Screen Time Addiction and Artificial Intelligence
 
-At the end of the 2023-2024 school year, things are fairly bleak about educatimg the general population of high school students from my perspective. Next year my school is starting a scchool wide awareness of the problems with screen time and the negative effects multiple screens are having on our students mental health, the classroom environment and basic student respect for learning.
+At the end of the 2023-2024 school year, things are fairly bleak about educating the general population of high school students from my perspective. Next year my school is starting a school wide awareness of the problems with screen time and the negative effects multiple screens are having on our students mental health, the classroom environment and basic student respect for learning.
 
 ### Ellis AIQ  
 
@@ -16,7 +16,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
 **Types of Screen-Addicted Students and IMHO (in my humble opinion) How to Teach Them:**
 
 1. **Producers (5-20%)**  
-   University or trade-bound students that can do and solve almost anything. They are stable, can play instruments, write, learn, read, play sports, help others, and thrive with or without AI. They may have overcome significant hurdles and use AI to enhance their learning. Increased technology has allowed significant growth in the number of truly capable students. These students need to be continuously challenged at their level to further their development. Challenging these students, does not, and should not, take much effort from the teacher.
+   University or trade-bound students that can do and solve almost anything. They are stable, can play instruments, write, learn, read, play sports, help others, and thrive with or without AI. They may have overcome significant hurdles and may use AI to simplify and enhance their learning. Increased technology has allowed significant growth in the number of truly capable students. These students may need to be continuously challenged at their level to further their development. Challenging these students, does not, and should not, take much effort from the teacher. These students are able to help themselves and others and should be encouraged to work for a better tomorrow and humanity.
 
 
    **Educational Goals:**  
@@ -31,7 +31,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Promote mentorship opportunities with industry professionals.
 
 3. **Screenagers (5-20%)**  
-   Highly intelligent students who are fully screen-time addicted and may have other addictions. They often exploit loopholes to maintain their screen time and may even teach others to do the same. While they occasionally produce excellent work, it is usually in areas of personal interest. They face various challenges, including learning and social issues, but their primary issue is screen-time addiction.
+   Highly intelligent students who are fully screen-time addicted and may have other addictions. They often exploit loopholes to maintain their screen time and may even teach others to do the same. While they occasionally produce excellent work, it is usually in areas of personal interest. They face various challenges, including learning and social issues, but their primary issue is screen-time addiction. These students are very capable if they can get a hold on there issues.
    
 
    **Educational Goals:**  
