@@ -16,7 +16,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
 **Types of Screen-Addicted Students and IMHO (in my humble opinion) How to Teach Them:**
 
 1. **Producers (5-20%)**  
-   University or trade-bound students who excel in various areas. They can play instruments, write, learn, read, play sports, help others, and thrive with or without AI. They may have overcome significant hurdles and use AI to enhance their learning. Increased technology has allowed significant growth in the number of truly capable students. These students need to be continuously challenged at their level to further their development.
+   University or trade-bound students that can do and solve almost anything. They are stable, can play instruments, write, learn, read, play sports, help others, and thrive with or without AI. They may have overcome significant hurdles and use AI to enhance their learning. Increased technology has allowed significant growth in the number of truly capable students. These students need to be continuously challenged at their level to further their development. Challenging these students, does not, and should not, take much effort from the teacher.
 
 
    **Educational Goals:**  
