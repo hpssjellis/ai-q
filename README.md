@@ -98,6 +98,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Tailor the curriculum to meet their unique requirements.
 
 
+<img width="850" alt="image" src="https://github.com/hpssjellis/aiq/assets/5605614/9e6452e7-1378-49b8-bb13-98739e27e35b">
 
 
 
