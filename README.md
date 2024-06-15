@@ -1,17 +1,26 @@
-# AIQ
+# AI-Q
 
-### Artificial Intelligence Quotient, in the age of Teenage Screentime
+### Artificial Intelligence Quotient, in the age of Teenage Screentime 
+
+## IQ and AI and the effects on students.
 
 ### My attempt to understand teaching teenagers in the age of Screen Time Addiction and Artificial Intelligence
 
 At the end of the 2023-2024 school year, things are fairly bleak about educating the general population of high school students from my perspective. Next year my school is starting a school wide awareness of the problems with screen time and the negative effects multiple screens are having on our students mental health, the classroom environment and basic student respect for learning.
 
-### Ellis AIQ  
+### I teach technology and in my opinion the problem in classrooms is much more complex than just removing cell phones. Here are a few points to consider
+
+1. AI might take your job, but more likely is that someone using AI is going to take your job.
+2. Screentime isn't going away and will probably be 24/7 in the future with wearables and neural-link
+3. Teachers possibly can influence what teenagers do with their screentime perhaps by concentrating on screen usage. What are you doing when on a screen
+4. For many students banning cell phones in the classroom is a great start
+5. Without massive support, the teachers will eventually be worn down 
+
+### Ellis AI-Q  
 
 Types of Screen Addicted students and IMHO (in my humble opinion) how to teach them:
 
 
-### Ellis AIQ
 
 **Types of Screen-Addicted Students and IMHO (in my humble opinion) How to Teach Them:**
 
@@ -46,7 +55,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Engage them in interest-based projects to channel their intelligence positively, but not at a massive time on waste on your part
    - Provide support for underlying issues, such as counseling for addictions.
 
-5. **Emergent and Addicted (5-20%)**  
+5. **Supported (5-20%)**  
    Students with significant learning challenges who are deeply engaged with screen time. They may have multiple disabilities or have faced significant trauma, often using screen time as a primary reward. These students benefit greatly from both social and AI-supported learning.
 
    **Educational Goals:**  
@@ -61,7 +70,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Avoid using screen time as a reward in the classroom, if EA present (Educational Assistant) then students might leave for rewards
    - Provide long-term support and involve multidisciplinary teams for comprehensive care.
 
-7. **Developing and Addicted (30-85%)**  
+7. **Adaptable (30-85%)**  
    Typical high school students with some learning issues, possible disabilities, or past trauma. They use social media and gaming extensively but can improve with proper guidance. 
 
      
@@ -76,7 +85,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Use AI tools to enhance learning while maintaining screen time limits.
    - Offer support for social and emotional development.
 
-9. **Developing, Not Addicted (0-5%)**  
+9. **Traditional (0-5%)**  
    Traditional C+/B students who are not heavily influenced by screen time. They likely have supportive parents and engage in various activities outside of school.
 
    **Educational Goals:**  
