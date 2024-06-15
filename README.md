@@ -18,41 +18,45 @@ At the end of the 2023-2024 school year, things are fairly bleak about educating
 
 ### Ellis AI-Q  
 
-Types of Screen Addicted students and IMHO (in my humble opinion) how to teach them:
+
 
 
 
 **Types of Screen-Addicted Students and IMHO (in my humble opinion) How to Teach Them:**
 
 1. **Producers (5-20%)**  
-   University or trade-bound students that can do and solve almost anything. They are stable, can play instruments, write, learn, read, play sports, help others, and thrive with or without AI. They may have overcome significant hurdles and may use AI to simplify and enhance their learning. Increased technology has allowed significant growth in the number of truly capable students. These students may need to be continuously challenged at their level to further their development. Challenging these students, does not, and should not, take much effort from the teacher. These students are able to help themselves and others and should be encouraged to work for a better tomorrow and humanity.
+   University or trade-bound students that can do and solve almost anything. They are stable, can play instruments, write, learn, read, play sports, help others, and thrive with or without AI. They may have overcome significant hurdles and may use AI to simplify and enhance their learning. Increased technology has allowed significant growth in the number of truly capable students. These students may need to be continuously challenged at their level to further their development. Challenging these students, does not, and should not, take much effort from the teacher. These students are able to help themselves and others and should be encouraged to work for a better tomorrow for both themselves and humanity.
 
 
    **Educational Goals:**  
    - Foster pride in their abilities.
    - Encourage lifelong learning.
    - Inspire them to contribute positively to society and the planet.
+   - push for learning all areas not just their strengths
+   - Fully well rounded learners
 
    **Teaching Strategies:**
-   - The key here is touching base every few days, these students do not need intensive help
+   - The key here is touching base every once in a while, these students do not need intensive help
    - Provide advanced and enriched curriculum options, also without much prep from your part
+   - Demand regular school work that is done at an exceptionally high level.
    - Encourage participation in extracurricular activities and competitions.
    - Promote mentorship opportunities with industry professionals.
 
 3. **Screenagers (5-20%)**  
-   Highly intelligent students who are fully screen-time addicted and may have other addictions. They often exploit loopholes to maintain their screen time and may even teach others to do the same. While they occasionally produce excellent work, it is usually in areas of personal interest. They face various challenges, including learning and social issues, but their primary issue is screen-time addiction. These students are very capable if they can get a hold on there issues.
+   Highly intelligent students who are fully screen-time addicted and may have other addictions. They often exploit loopholes to maintain their screen time and may even teach others to do the same. While they occasionally produce excellent work, it is usually in areas of personal interest. They face various challenges, including learning and social issues, but their primary issue is screen-time addiction. These students are very capable if they can control their issues.
    
 
    **Educational Goals:**  
    - Develop self-sufficiency in motivation and learning.
    - Address and manage their addictions.
+   - Push for high level of assignment completion
 
    **Teaching Strategies:**
    - The key here is that these students have no desire to stop there addiction and may perceive learning as a problem. Expect to
      crush or be crushed.
    - Set clear and consistent boundaries regarding all classroom activities.
-   - Use administration for help when they out-smart you and break a rule or find a loophole. The tone of learning must be maintained.
-   - Engage them in interest-based projects to channel their intelligence positively, but not at a massive time on waste on your part
+   - Use administration for help when they out-smart you and break a rule or find a loophole. The tone of a learning classroom must be maintained.
+   - Engage them in interest-based projects to channel their intelligence positively, but not at a massive time waste on your part
    - Provide support for underlying issues, such as counseling for addictions.
 
 5. **Supported (5-20%)**  
@@ -61,6 +65,8 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    **Educational Goals:**  
    - Develop social and safety skills.
    - Achieve employability in supportive environments.
+   - Use AI and other software to help with individualized teaching programs
+   - Use classtime for these students to have social activity assignments.
 
    **Teaching Strategies:**
    - Implement a balanced approach to learning, alternating between social and academic goals.
@@ -71,7 +77,7 @@ Types of Screen Addicted students and IMHO (in my humble opinion) how to teach t
    - Provide long-term support and involve multidisciplinary teams for comprehensive care.
 
 7. **Adaptable (30-85%)**  
-   Typical high school students with some learning issues, possible disabilities, or past trauma. They use social media and gaming extensively but can improve with proper guidance. 
+   Typical high school students with some learning issues, gender issues, social issues, possible disabilities, or possible past trauma. They use social media and gaming extensively but can improve screentime balance with proper guidance. 
 
      
    **Educational Goals:**  
@@ -156,11 +162,22 @@ Encourage Producers to learn everything they can, every minute in the class room
 
 ### Parents
 
+Many parents with married or single will have 100% screentime during the workday and will come home exhausted and needing a break. Fighting with teenagers about homework and getting off the computer is not high on their interest list. Somehow parents need to be educated about the dangers of too much screen time and too little sleep time when students have unlimited electronic in their room. 
+
+My Opinion, is to educated both the teenagers and parents about screen usage, most of the teenagers screen time should be spent learning! Just like parents having some time to unwind and relax or communicate with frineds, game etc is fine as long as it comes after learning something.
+
 
 ### Administration
+Here is where the entire solution will make or break. 
+If teachers can seperate who are the Screenagers from the general student population and have success with those Screenagers then all is fine as long as we are meeting the needs of the Supported students.
 
+If however the Screenagers find every loop hole and start teaching the other students how to get around every school rule, then we just go back to how the last few years have been where many students can't learn for more than a few minutes.
+
+We need some solid steps for identifying the Screenagers and we need some solid steps for what the Admin is going to do once these Screenagers have been detected.
 
 ### others
+
+There will always be a few special situations that will need a delicate touch. Thesee also can make a break great classroom rules. This area needs to be dealt with carfefully.
 
 
 
